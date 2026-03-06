@@ -58,7 +58,7 @@ git clone https://github.com/Hetvi4728/painting-shop-project.git
 - Add payment gateway
 - Add product filtering
 
-##👩‍💻Author
+## 👩‍💻Author
 **Hetvi Patel**
 
 GitHub: 
